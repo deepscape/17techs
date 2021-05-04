@@ -4,6 +4,8 @@ import re
 
 
 def check_password(password):
+    # re.search() 메서드는 패턴이 일치하면 검사를 중단하고 결과를 바로 반환한다.
+
     # len(password) >= 8 코드로도 검사할 수 있습니다.
     result = re.search(r'.{8,}', password)
     if not result:
