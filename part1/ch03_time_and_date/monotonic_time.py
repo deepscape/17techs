@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 import time
 
 # t1 시간 기록 (현재)

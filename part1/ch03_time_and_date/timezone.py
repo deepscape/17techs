@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 import datetime
 
 # 시스템 기본 시간

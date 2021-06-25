@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import uuid
 from flask import Flask
 app = Flask(__name__)
